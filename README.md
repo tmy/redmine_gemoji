@@ -8,11 +8,11 @@ Installation
 
  1. Copy the plugin directory into the `plugins` directory
 
- 2. Run bundler
+ 2. Run bundler (from the plugin directory):
 
         $ bundle install
 
- 3. Run rake task
+ 3. Run rake task (from the Redmine root directory):
 
         $ rake emoji
 
